@@ -11,3 +11,7 @@ let radius = 8;
 
 let circle = radius * 2 * PI;
 console.log(circle)
+
+let name = "carlo"
+name = "marco"
+console.log(name)
