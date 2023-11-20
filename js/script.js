@@ -21,5 +21,10 @@ let greet = 'Ciao, Mondo!';
 console.log(greet);
 
 // 4/b
-greet = 'come stai mondo?'
+// let greet = 'come stai mondo?'
+// console.log(greet)
+
+// 4/c
+greet = greet + 'come stai?'
 console.log(greet)
+
