@@ -10,11 +10,16 @@ console.log(PI);
 let radius = 8;
 
 let circle = radius * 2 * PI;
-console.log(circle)
+console.log(circle);
 
-let name = "carlo"
-name = "marco"
-console.log(name)
+let name = "carlo";
+name = "marco";
+console.log(name);
 
-let greet = 'Ciao, Mondo!'
+//ESERCIZIO 4 
+let greet = 'Ciao, Mondo!';
+console.log(greet);
+
+// 4/b
+greet = 'come stai mondo?'
 console.log(greet)
