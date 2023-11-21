@@ -43,3 +43,10 @@ else{
 }
 
 console.log(comparison)
+
+if (num1 = num2){
+    comparison = ' i numeri sono uguali'
+}
+else{
+    comparison = 'i numeri sono diversi'
+}
