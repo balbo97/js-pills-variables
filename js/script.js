@@ -29,24 +29,38 @@ greet = greet + 'come stai?'
 console.log(greet)
 
 //5
-let num1 = 44
-let num2 = 22 
+// let num1 = 44
+// let num2 = 22 
 
-let comparison
+// let comparison
 
-if (num1 > num2){
-    comparison = num1 
+// if (num1 > num2){
+//     comparison = num1 
 
+// }
+// else{
+//     comparison = num2 
+// }
+
+// //6
+// console.log(comparison)
+
+// if (num1 = num2){
+//     comparison = ' i numeri sono uguali'
+// }
+// else{
+//     comparison = 'i numeri sono diversi'
+// }
+
+// console.log(comparison)
+
+//7
+let num7 = 7 
+let comparison 
+if(num == 7){
+    comparison = true 
 }
 else{
-    comparison = num2 
+    comparison = false 
 }
-
-console.log(comparison)
-
-if (num1 = num2){
-    comparison = ' i numeri sono uguali'
-}
-else{
-    comparison = 'i numeri sono diversi'
-}
+ console.log(comparison)
