@@ -55,12 +55,17 @@ console.log(greet)
 // console.log(comparison)
 
 //7
-let num7 = 7 
-let comparison 
-if(num == 7){
-    comparison = true 
-}
-else{
-    comparison = false 
-}
- console.log(comparison)
+// let num7 = 7 
+// let comparison 
+// if(num == 7){
+//     comparison = true 
+// }
+// else{
+//     comparison = false 
+// }
+//  console.log(comparison)
+
+// **Esercizio 1/A**  
+ for (i=1; i<= 42; i++){
+    console.log(i)
+ }
