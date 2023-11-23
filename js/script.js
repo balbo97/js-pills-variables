@@ -1,32 +1,32 @@
-let number = 100;
-console.log(number);
+// let number = 100;
+// console.log(number);
 
-const PI = 3.14;
-console.log(PI); 
+// const PI = 3.14;
+// console.log(PI); 
 
 // PI=3.1416
 // console.log(PI)
 
-let radius = 8;
+// let radius = 8;
 
-let circle = radius * 2 * PI;
-console.log(circle);
+// let circle = radius * 2 * PI;
+// console.log(circle);
 
-let name = "carlo";
-name = "marco";
-console.log(name);
+// let name = "carlo";
+// name = "marco";
+// console.log(name);
 
 //ESERCIZIO 4 
-let greet = 'Ciao, Mondo!';
-console.log(greet);
+// let greet = 'Ciao, Mondo!';
+// console.log(greet);
 
 // 4/b
 // let greet = 'come stai mondo?'
 // console.log(greet)
 
 // 4/c
-greet = greet + 'come stai?'
-console.log(greet)
+// greet = greet + 'come stai?'
+// console.log(greet)
 
 //5
 // let num1 = 44
@@ -66,6 +66,11 @@ console.log(greet)
 //  console.log(comparison)
 
 // **Esercizio 1/A**  
- for (i=1; i<= 42; i++){
+//  for (i=1; i<= 42; i++){
+//     console.log(i)
+//  }
+
+//  **Esercizio 1/B**  
+for (i=42; i>=1; i--){
     console.log(i)
- }
+}

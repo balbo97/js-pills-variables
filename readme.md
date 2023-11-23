@@ -40,5 +40,8 @@ Scrivi un *ciclo for* che stampi i numeri interi da 1 a 42 (compresi)
 :+1:
 6
 
+**Esercizio 1/B**  
+Ora riscrivi il *ciclo for* in modo che stampi i numeri interi da 42 a 1 
+
 
 
