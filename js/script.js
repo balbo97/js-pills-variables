@@ -80,3 +80,6 @@ const numbers = [1, 2, 3, 4, 5, 6, 7, 8]
 
 // **Esercizio 1/B** 
 const fruit = ['mela', 'banana', 'pesca', 'pera', 'albicocca', 'mango', 'kiwi', 'papaya']
+
+// **Esercizio 1/C** 
+console.log(fruit.length)
