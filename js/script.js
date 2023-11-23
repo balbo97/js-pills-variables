@@ -76,5 +76,7 @@ for (i=42; i>=1; i--){
 }
 
 // **Esercizio 1/A**  
-
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8]
+
+// **Esercizio 1/B** 
+const fruit = ['mela', 'banana', 'pesca', 'pera', 'albicocca', 'mango', 'kiwi', 'papaya']
